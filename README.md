@@ -18,6 +18,7 @@ Output: Top-k diseases that are relevant to the input
 
 ### Example
 
+```get_similar_diseases(similarity_df, "ABETALIPOPROTEINEMIA")```, or ```get_similar_diseases_by_cui(similarity_df, "C0000744")```
 | CUI_1 |	STR_1	| CUI_2 |	STR_2 |	SCORE |
 | ----- | ----- | ----- | ----- | ----- | 
 |	C0000744 |	ABETALIPOPROTEINEMIA	| C0020479	| HYPERLIPOPROTEINEMIA TYPE III |	0.734213 |
