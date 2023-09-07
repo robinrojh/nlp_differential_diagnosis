@@ -7,6 +7,7 @@ Mainly, it aims to help with finding a differential diagnosis for an input diagn
 * Unified Medical Language System® (UMLS®) Metathesaurus
 
 Input: Suspected disease name or CUI from UMLS (Diagnosis)
+
 Output: Top-k diseases that are relevant to the input
 
 ### Process
